@@ -1,0 +1,16 @@
+/bin/
+/server
+*.exe
+
+# privacy
+.env
+*.local.yml
+
+vendor/
+*.test
+coverage.out
+
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
